@@ -10,5 +10,5 @@ Output feature classes contain only following fields:
 * srcLayer
 * srcPath
 
-Preserves already existing values in srcLayer and serPath fields.
+Preserves already existing values in srcLayer and srcPath fields.
 
